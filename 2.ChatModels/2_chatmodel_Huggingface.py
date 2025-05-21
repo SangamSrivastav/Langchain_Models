@@ -10,3 +10,5 @@ llm = HuggingFaceEndpoint(
 
 response = llm.invoke("What is the capital of India?")
 print(response)
+
+# python 2.ChatModels/2_chatmodel_Huggingface.py
